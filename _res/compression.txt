@@ -1,0 +1,16 @@
+[Compression]
+CompressionType=Fast
+
+[BuildOptions]
+OptimizeFor=Disk
+MSICompressionType=Fast
+
+
+---------------------------------
+
+[Compression]
+CompressionType=None
+
+[BuildOptions]
+;OptimizeFor=Disk
+;MSICompressionType=Fast

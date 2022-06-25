@@ -1,0 +1,3 @@
+move the '_res' folder to the folder that holds your thinapp (thinstall) program files ('vregtool.exe', 'Setup Capture.exe', 'tlink.exe',..)
+
+or edit the batch files to point to the location they are.
